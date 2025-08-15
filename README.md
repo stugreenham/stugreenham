@@ -1,2 +1,3 @@
-### 👋 Hi, I’m @stugreenham, a Lead Product Designer from Yorkshire. 
-For the last 8 years, I've been working remotely for Hudl on some exciting projects in the sports analysis world across Web, iOS, Android and MacOS. On the side, I like to tinker with code, be it figma plugins, browser plugins or most recently learning how to build apps with SwiftUI.
+### 👋 Hi, I’m @stugreenham, a Design Lead from Yorkshire. 
+I am currently helping to create the worlds best digital paper with the team at Goodnotes, focusing on the desktop experience for our Apple and Cross Platform customers. 
+Prior to that, I spent 9 years at Hudl working on some exciting projects in the sports analysis world across Web, iOS, Android and macOS.
